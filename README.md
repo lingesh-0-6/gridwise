@@ -210,22 +210,11 @@ npm run build
 - [ ] Blockchain energy ledger
 
 ---
----
 
 ## 🎥 Demo Video
 
-Watch the complete demonstration of **GridWise AI**:
 
-<p align="center">
-
-<a href="https://drive.google.com/file/d/1bC1XdiB4Dhgqq9AGP4GRZkgDKaSL7nF2/view?usp=sharing">
-  <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Demo Video"/>
-</a>
-
-</p>
-
-> 📌 **Demo Link:**  
-> `https://drive.google.com/file/d/1bC1XdiB4Dhgqq9AGP4GRZkgDKaSL7nF2/view?usp=sharing'
+[▶️ Watch the full demo](https://drive.google.com/file/d/1bC1XdiB4Dhgqq9AGP4GRZkgDKaSL7nF2/view?usp=sharing)
 ---
 
 ## 📸 Screenshots
