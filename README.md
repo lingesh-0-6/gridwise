@@ -165,7 +165,7 @@ npm run build
   <tr>
     <td align="center">
       <b>Login Page</b><br><br>
-      <img src="screenshots/login page.png" width="420"/>
+      <img src="screenshots/loginpage.png" width="420"/>
     </td>
     <td align="center">
       <b>Resident Dashboard</b><br><br>
