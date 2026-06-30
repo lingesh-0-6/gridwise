@@ -266,7 +266,3 @@ This project is licensed under the MIT License.
 **Lingesh**
 
 ---
-
-<p align="center">
-Built with ❤️ using React, Vite and Tailwind CSS
-</p>
