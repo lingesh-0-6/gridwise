@@ -69,7 +69,7 @@ GridWise AI addresses all three.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -85,7 +85,7 @@ GridWise AI addresses all three.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 gridwise/
@@ -146,7 +146,7 @@ npm run build
 
 ---
 
-## 🔐 Demo Credentials
+## Demo Credentials
 
 | Role | Username | Password | Access |
 |---|---|---|---|
@@ -210,7 +210,60 @@ npm run build
 - [ ] Blockchain energy ledger
 
 ---
+---
 
+## 🎥 Demo Video
+
+Watch the complete demonstration of **GridWise AI**:
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1bC1XdiB4Dhgqq9AGP4GRZkgDKaSL7nF2/view?usp=sharing">
+  <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Demo Video"/>
+</a>
+
+</p>
+
+> 📌 **Demo Link:**  
+> `https://drive.google.com/file/d/1bC1XdiB4Dhgqq9AGP4GRZkgDKaSL7nF2/view?usp=sharing'
+---
+
+## 📸 Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Login Page</b><br><br>
+      <img src="screenshots/login-page.png" width="450"/>
+    </td>
+    <td align="center">
+      <b>Resident Dashboard</b><br><br>
+      <img src="screenshots/dashboard.png" width="450"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>EV Booking</b><br><br>
+      <img src="screenshots/evbooking.png" width="450"/>
+    </td>
+    <td align="center">
+      <b>Admin Dashboard</b><br><br>
+      <img src="screenshots/admin-dashboard.png" width="450"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>EV Management</b><br><br>
+      <img src="screenshots/EV-Management.png" width="450"/>
+    </td>
+    <td align="center">
+      <b>Leaderboard</b><br><br>
+      <img src="screenshots/leaderboard.png" width="450"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📄 License
