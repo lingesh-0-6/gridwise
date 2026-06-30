@@ -158,43 +158,6 @@ npm run build
 > All 10 households follow the pattern: `house1`–`house10` / `pass1`–`pass10`
 
 ---
-
-## 📸 Screenshots
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>Login Page</b><br><br>
-      <img src="screenshots/loginpage.png" width="420"/>
-    </td>
-    <td align="center">
-      <b>Resident Dashboard</b><br><br>
-      <img src="screenshots/dashboard.png" width="420"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>EV Booking</b><br><br>
-      <img src="screenshots/evbooking.png" width="420"/>
-    </td>
-    <td align="center">
-      <b>Admin Dashboard</b><br><br>
-      <img src="screenshots/admin-dashboard.png" width="420"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>EV Management</b><br><br>
-      <img src="screenshots/EV-Management.png" width="420"/>
-    </td>
-    <td align="center">
-      <b>Leaderboard</b><br><br>
-      <img src="screenshots/leaderboard.png" width="420"/>
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🔭 Future Roadmap
@@ -223,7 +186,7 @@ npm run build
   <tr>
     <td align="center">
       <b>Login Page</b><br><br>
-      <img src="screenshots/login-page.png" width="450"/>
+      <img src="screenshots/loginpage.png" width="450"/>
     </td>
     <td align="center">
       <b>Resident Dashboard</b><br><br>
